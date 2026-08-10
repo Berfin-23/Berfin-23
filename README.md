@@ -1,6 +1,5 @@
 ### Hi there, I'm Berbin! 👋
 
-- 🔭 I’m currently studying B.Tech in Computer Science and Engineering.
 - 🌱 I’m currently diving deep into Full Stack Development and mastering Python.
 - 👯 I’m looking to collaborate on open-source projects that challenge and inspire me.
 - 🤔 I’m looking for help with advanced Full Stack concepts and optimizing code efficiency.
