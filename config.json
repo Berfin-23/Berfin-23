@@ -1,8 +1,5 @@
 {
   "image": "https://i.ibb.co/p6b9JFfy/Whats-App-Image-2026-08-15-at-5-23-45-PM.jpg",
-  "coloredImage": true,
-  "imageScale": 1,
-  "removeBackground": true,
   "sections": [
     {
       "title": "{{username}}@github",
