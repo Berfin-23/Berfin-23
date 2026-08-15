@@ -1,5 +1,8 @@
 {
   "image": "https://i.ibb.co/fGLntBXy/my.png",
+  "coloredImage": true,
+  "imageScale": 1,
+  "removeBackground": true,
   "sections": [
     {
       "title": "{{username}}@github",
@@ -12,20 +15,23 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" }
+        { "key": "Languages", "value": "Python, TypeScript, JavaScript" },
+        { "key": "IDE", "value": "VSCode, JetBrains, Antigravity" },
+        { "key": "Learning", "value": "System design, DevOps" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Coding", "value": "Building Rajathi Ethnic House" },
-        { "key": "Hobbies.Other", "value": "Your hobby here" }
+        { "key": "Hobbies.Coding", "value": "Developing full stack apps" },
+        { "key": "Hobbies.Hardware", "value": "Arduino, Raspberry Pi" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://berbinms.com" }
+        { "key": "Email", "value": "berbinms@gmail.com" },
+        { "key": "Website", "value": "https://berbinms.com" },
+        { "key": "LinkedIn", "value": "linkedin.com/in/berbinms" }
       ]
     }
   ],
