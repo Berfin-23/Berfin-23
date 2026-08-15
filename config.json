@@ -1,5 +1,6 @@
 {
   "coloredImage": true,
+  "imageScale": 1,
   "sections": [
     {
       "title": "{{username}}@github",
